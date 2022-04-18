@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravinder Singh FULL STACK DEVELOPER
-- 👀 Loev to develope Web Site, Mobile App and Web API development 
+- 👀 Love to develope Web Site, Mobile App and Web API development 
 - 🌱 Currently learning Angular 10 And Xamarin Maui
 - 💞️ Looking to collaborate on Team work
 - 📫 Email: RAVINDER25886@gmail.com
