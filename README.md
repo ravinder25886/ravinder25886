@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravinder Singh Sr. FULL STACK DEVELOPER
 - 👀 Love to develope Web Site, Mobile App and Web API 
-- 🌱 Currently learning Angular 10 And Xamarin Maui
+- 🌱 Currently learning Angular
 - 💞️ Looking to collaborate on Team work
 - 📫 Email: RAVINDER25886@GMAIL.COM
 - 📞 Skype name: Ravinder25886
