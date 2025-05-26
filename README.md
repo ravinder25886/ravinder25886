@@ -3,7 +3,6 @@
 - 🌱 Currently learning Angular
 - 💞️ Looking to collaborate on Team work
 - 📫 Email: RAVINDER25886@GMAIL.COM
-- 📞 Skype name: Ravinder25886
 - 🌐https://www.theravinder.com
 
 I have 12+ years of experience and I can manage any web application 🌐in ASP.net MVC, ASP.net Core MVC, and C#.net. Moreover, I have experience with Xamrain Framework for 📱Mobile applications (Android and iPhone). Therefore, I can deliver all tasks on time with the best quality.
