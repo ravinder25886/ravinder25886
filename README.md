@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravinder Singh Sr. FULL STACK DEVELOPER
+- 👋 Hi, I’m Ravinder Singh Sr.Full-Stack Developer
 - 👀 Love to develope Web Site, Mobile App and Web API 
 - 🌱 Currently learning Angular
 - 💞️ Looking to collaborate on Team work
