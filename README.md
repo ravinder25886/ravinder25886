@@ -39,7 +39,7 @@ I have 15+ years of experience and I can manage any web application 🌐in ASP.n
 - 🧠 I love designing architecture for scalable systems.
 - 📦 Currently exploring **Azure Cloud**, **DevOps**, and **React + TypeScript** ecosystem.
 - 🛠️ Focused on writing clean, testable, and maintainable code.
-- ✍️ Regularly blogging and sharing insights at [theravinder.com](https://www.theravinder.com/).
+- ✍️ Regularly blogging and sharing insights at [theravinder.com/blog](https://www.theravinder.com/blog).
 
 ---
 
