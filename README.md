@@ -5,7 +5,7 @@
 - 📫 Email: RAVINDER25886@GMAIL.COM
 - 🌐https://www.theravinder.com
 
-I’m a Senior .NET / Full-Stack Developer with 15+ years of experience delivering scalable enterprise applications using ASP.NET Core, C#, and SQL Server. Expertise in Web APIs, Dapper, Blazor, and full-stack development with React/Next.js. Proven track record in improving system performance, implementing coding best practices, and leading cross-functional teams. Experienced in cloud integration, CI/CD pipelines,Git, unit testing, microservices, and cloud-native solutions to build high-quality, maintainable applications.
+I’m a Senior .NET / Full-Stack Developer with 17+ years of experience delivering scalable enterprise applications using ASP.NET Core, C#, and SQL Server. Expertise in Web APIs, Dapper, Blazor, and full-stack development with React/Next.js. Proven track record in improving system performance, implementing coding best practices, and leading cross-functional teams. Experienced in cloud integration, CI/CD pipelines,Git, unit testing, microservices, and cloud-native solutions to build high-quality, maintainable applications.
 
 I’m passionate about writing modular, maintainable code that integrates seamlessly with third-party services, ensuring consistent standards across Agile teams. I thrive on transforming complex business requirements into efficient, reliable solutions that scale.
 
