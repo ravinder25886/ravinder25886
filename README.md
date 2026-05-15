@@ -78,6 +78,25 @@ Microservices | Clean Architecture | DDD | SOLID | Agile | TDD
 🔹 Developing scalable API-driven architectures  
 
 ---
+## 📦 Open Source & .NET Contributions
+
+- NuGet Profile: https://www.nuget.org/profiles/ravinder25886
+- Contributing to reusable .NET components and libraries within the ecosystem
+---
+## 🎤 Community Event Contribution
+
+### Cursor Northampton Evening Hackathon
+Organised by Rahulkrishnan R A (Cursor Ambassador)  
+In collaboration with NN1 Dev Club x UON AI & Robotics Society
+
+- Contributed as part of the **hosting/support team** for a public AI-focused hackathon in Northampton
+- Supported on-ground coordination and event execution during the hackathon
+- Assisted with developer engagement for a 100+ participant technical event
+- Participated in a community-driven AI and developer ecosystem event focused on modern development tools (Cursor, AI workflows)
+
+🔗 Event: https://luma.com/cw8l2nhn
+
+---
 
 ## 📫 Let’s Connect
 
