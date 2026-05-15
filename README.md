@@ -1,58 +1,91 @@
-- 👋 Hi, I’m Ravinder Singh Sr.Full-Stack Developer
-- 👀 Love to develope Web Site, Mobile App and Web API 
-- 🌱 Currently learning Angular
-- 💞️ Looking to collaborate on Team work
-- 📫 Email: RAVINDER25886@GMAIL.COM
-- 🌐https://www.theravinder.com
+# 👋 Hi, I'm Ravinder Singh
 
-I’m a Senior .NET / Full-Stack Developer with 17+ years of experience delivering scalable enterprise applications using ASP.NET Core, C#, and SQL Server. Expertise in Web APIs, Dapper, Blazor, and full-stack development with React/Next.js. Proven track record in improving system performance, implementing coding best practices, and leading cross-functional teams. Experienced in cloud integration, CI/CD pipelines,Git, unit testing, microservices, and cloud-native solutions to build high-quality, maintainable applications.
+Senior Full-Stack / .NET Developer with 17+ years of experience building scalable enterprise systems, modern web applications, and cloud-native solutions.
 
-I’m passionate about writing modular, maintainable code that integrates seamlessly with third-party services, ensuring consistent standards across Agile teams. I thrive on transforming complex business requirements into efficient, reliable solutions that scale.
+I specialize in **ASP.NET Core, C#, SQL Server, React/Next.js, and Azure**, with a strong focus on clean architecture, performance, and maintainable engineering practices.
 
+In recent years, I have expanded into **AI engineering and automation**, exploring LLM-based systems, AI agents, and intelligent workflows integrated into real-world applications.
+
+I am also actively involved in the UK developer community through **NN1 Dev Club**, contributing to technical events, knowledge sharing, and developer engagement activities.
 
 ---
 
-### 🛠️ Tech Stack
+## 👀 What I Do
+
+- 🏗️ Design and build scalable enterprise web applications  
+- 🌐 Full-stack development (ASP.NET Core, React, Next.js, Blazor)  
+- 🔌 Web API development and third-party integrations  
+- ☁️ Azure cloud solutions, CI/CD pipelines, DevOps automation  
+- ⚙️ Microservices, clean architecture, and system design  
+- 🤖 Exploring AI applications, LLM APIs, and automation workflows  
+
+---
+
+## 🌱 Currently Learning
+
+- Azure cloud-native architecture  
+- React + TypeScript advanced patterns  
+- AI engineering (LLMs, agents, automation systems)  
+- Modern DevOps and deployment strategies  
+- Scalable distributed system design  
+
+---
+
+## 💞️ Collaboration Interests
+
+- Enterprise web systems and SaaS applications  
+- AI-powered automation tools and workflows  
+- Open-source developer tools  
+- Full-stack architecture and system design projects  
+- Community-driven learning and tech events  
+
+---
+
+## 📌 About Me
+
+- 17+ years of hands-on experience in enterprise software development  
+- Strong focus on scalable architecture and clean coding principles  
+- Experienced in leading cross-functional development teams  
+- Passionate about building maintainable, production-ready systems  
+- Active contributor to developer community events (NN1 Dev Club, UK)  
+- Continuously evolving into AI-enabled software engineering  
+
+---
+
+## 🛠️ Tech Stack
 
 **Front-End**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+HTML | CSS | JavaScript | TypeScript | React | Next.js | Blazor
 
 **Back-End**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
+.NET | C# | ASP.NET Core | Web APIs | Node.js | SQL Server | Dapper
 
 **Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+Azure | Docker | GitHub Actions | CI/CD | Azure DevOps
+
+**Architecture & Practices**  
+Microservices | Clean Architecture | DDD | SOLID | Agile | TDD
 
 ---
 
-### 📌 About Me
+## 📌 Projects
 
-- 🔧 15+ years of hands-on experience in building web and cloud-based applications.
-- 🧠 I love designing architecture for scalable systems.
-- 📦 Currently exploring **Azure Cloud**, **DevOps**, and **React + TypeScript** ecosystem.
-- 🛠️ Focused on writing clean, testable, and maintainable code.
-- ✍️ Regularly blogging and sharing insights at [theravinder.com/blog](https://www.theravinder.com/blog).
+🌐 Portfolio: https://www.theravinder.com  
+✍️ Blog: https://www.theravinder.com/blog  
+
+🔹 Building full-stack applications using React + .NET Core  
+🔹 Exploring AI integration in real-world business systems  
+🔹 Developing scalable API-driven architectures  
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let’s Connect
 
-- 🌐 [Website](https://www.theravinder.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/theravinder)
+- 🌐 Website: https://www.theravinder.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/theravinder  
+- 📧 Email: RAVINDER25886@GMAIL.COM  
+- 💻 GitHub: https://github.com/ravinder25886  
+
 ---
 
-### 📊 GitHub Stats
-
-![Ravinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravinder25886&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravinder25886&layout=compact&theme=github_dark)
+⚡ Building scalable enterprise systems, exploring AI-driven development, and contributing to developer communities.
