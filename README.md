@@ -2,11 +2,13 @@
 
 Senior Full-Stack / .NET Developer with 17+ years of experience building scalable enterprise systems, modern web applications, and cloud-native solutions.
 
-I specialize in **ASP.NET Core, C#, SQL Server, React/Next.js, and Azure**, with a strong focus on clean architecture, performance, and maintainable engineering practices.
+I specialize in ASP.NET Core, C#, SQL Server, React/Next.js, and Azure, with a strong focus on clean architecture, performance, and maintainable engineering practices.
 
-In recent years, I have expanded into **AI engineering and automation**, exploring LLM-based systems, AI agents, and intelligent workflows integrated into real-world applications.
+Alongside enterprise development, I build and maintain personal products, including MealFormula, an AI-powered recipe discovery platform that leverages OpenAI to deliver natural-language search and intelligent user experiences.
 
-I am also actively involved in the UK developer community through **NN1 Dev Club**, contributing to technical events, knowledge sharing, and developer engagement activities.
+In recent years, I have expanded into AI engineering and automation, exploring LLM-powered applications, AI agents, intelligent search, and workflow automation integrated into real-world solutions.
+
+I am also actively involved in the UK developer community through **NN1 Dev Club**, contributing to technical events, knowledge sharing, and developer engagement initiatives.
 
 ---
 
@@ -86,7 +88,6 @@ Microservices | Clean Architecture | DDD | SOLID | Agile | TDD
 ## 🎤 Community Event Contribution
 
 ### Cursor Northampton Evening Hackathon
-Organised by Rahulkrishnan R A (Cursor Ambassador)  
 In collaboration with NN1 Dev Club x UON AI & Robotics Society
 
 - Contributed as part of the **hosting/support team** for a public AI-focused hackathon in Northampton
